@@ -4,5 +4,4 @@
 # 진행한 프로젝트
 - 식품의약품안전처 식품영양성분 데이터를 활용한 식단 기록 웹 서비스 개발 [(프로젝트 보러가기)](https://github.com/JaeMin1130/MiniProject_MealNote)
 - 차량 번호판 인식 AI 모델 개발, 차량 출입 관리 웹 서비스 개발(동연에스엔티 기업 과제) [(프로젝트 보러가기)](https://github.com/JaeMin1130/MiniProject_LicensePlate)
-- 지리기반 맛집 추천 웹 서비스 - 원티드 백엔드 인턴십 2차과제 [(프로젝트 보러가기)](https://github.com/Team-Enigma23/location-based-gourmet-recommendation-project)
 
